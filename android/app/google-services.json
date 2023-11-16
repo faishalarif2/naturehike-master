@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614663065646",
+    "project_id": "naturehike-a1848",
+    "storage_bucket": "naturehike-a1848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614663065646:android:46dfbfd5825cabb61d0fbf",
+        "android_client_info": {
+          "package_name": "com.example.naturehike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614663065646-ur5mibtn9lmc5f8m0vdjfhf3trojvp0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjbgn09k4H8rkmMpaE2zzUkgWHIDSkwkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614663065646-ur5mibtn9lmc5f8m0vdjfhf3trojvp0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
